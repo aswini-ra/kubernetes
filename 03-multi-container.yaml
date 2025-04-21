@@ -1,3 +1,5 @@
+#one pod can run multiple containers
+
 Kind: Pod
 apiVersion: v1
 metadata: 
