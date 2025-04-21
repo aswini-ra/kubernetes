@@ -1,4 +1,6 @@
 # namespaces are used to isolate projects which is using in same cluster
+#if we not mentioned the namespace it will ake default namespace
+#bydafault we have 3 admin namespaces in cluster
 apiVersion: v1
 Kind: namespace
 metadata:
