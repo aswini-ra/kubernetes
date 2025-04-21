@@ -1,3 +1,4 @@
+# namespaces are used to isolate projects which is using in same cluster
 apiVersion: v1
 Kind: namespace
 metadata:
