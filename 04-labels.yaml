@@ -1,3 +1,4 @@
+#Labels are key value pairs to which is used to define project details
 kind: Pod
 apiVersion: v1
 metadata:
