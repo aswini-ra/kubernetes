@@ -12,6 +12,12 @@ kubectl apply -f 01-namespace.yaml
 To get namespaces list: # default we have 3 admin namespace
 kubectl get namespaces
 
+Kubectl get pods -n manakitchen(namespace)
+
+kubectl describe pod pod-name
+kubectl exce -it container-id --bash
+
+
 
 
 
